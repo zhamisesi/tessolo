@@ -1,0 +1,5 @@
+etsy_user_session/
+image_cache/
+__pycache__/
+*.pyc
+tessolo_pins_staging.csv
