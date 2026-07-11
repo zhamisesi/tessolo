@@ -3,3 +3,5 @@ image_cache/
 __pycache__/
 *.pyc
 tessolo_pins_staging.csv
+
+tessolo_pins_video_staging.csv
